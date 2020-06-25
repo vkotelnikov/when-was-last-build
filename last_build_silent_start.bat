@@ -1,0 +1,1 @@
+START /MIN CMD.EXE /C D:\proj\python\last_build_gui\last_build.bat
